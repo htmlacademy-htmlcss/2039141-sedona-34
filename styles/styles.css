@@ -42,6 +42,19 @@ body {
 
 }
 
+.nav-link-botton {
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+    background-color: #756157;
+    border-radius: 4px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+
 .main-header {
     text-align: center;
     font-weight: 700;
