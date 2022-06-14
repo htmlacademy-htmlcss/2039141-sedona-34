@@ -1,0 +1,135 @@
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/ptsans-400.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/ptsans-700.woff2") format("woff2");
+    font-display: swap;
+}
+
+body {
+    font-family: "PT Sans", sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+    background-color: ghostwhite;
+}
+
+.welcome-chapter {
+    color: #000000;
+    background: #FFFFFF; 
+}
+
+.nav-link {
+    font-weight: 700;
+    color: #000000;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.page-main {
+    color: #000000;
+    background-color: ghostwhite;
+
+}
+
+.main-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+}
+
+.text-advantages {
+    color: #333333;
+    text-align: center; 
+}
+
+.item-chapter {
+    background: #82B3D3;
+}
+
+.advantages-name{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.advantages-text-little {
+    font-size: 18px;
+    line-height: 21px;  
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.advantages-name-change-color {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.advantages-text-little-change-color {
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center; 
+    color: #333333;
+}
+
+.advantages-item {
+    background-color: #FFFFFF;
+}
+
+.advantages-item-main-color {
+    background-color: rgba(131, 179, 211, 0.12);
+}
+
+.advantages-item-main-color-dark {
+    background-color: rgba(131, 179, 211, 0.2);
+}
+
+.serch {
+    color: #000000;
+    background-color: ghostwhite;
+}
+
+.end-chapter {
+    color: #000000;
+    background-color: ghostwhite;
+}
+
+.main-header-white {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-end {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.phone-number {
+    font-style: normal;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
